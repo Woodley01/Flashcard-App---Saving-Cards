@@ -6,7 +6,7 @@
 
 ### App Walk-though
 
-<img src="https://github.com/Woodley01/Flashcard-App---Saving-Cards/blob/master/Video%20Saving%20Cards.gif><br>
+<img src="https://github.com/Woodley01/Flashcard-App---Saving-Cards/blob/master/Video%20Saving%20Cards.gif"><br>
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
